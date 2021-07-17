@@ -1,7 +1,6 @@
 <?php
 include "header.php";
 include "navigation.php";
-include "session_checker.php";
 include 'connection.php';
 ?>
 
@@ -11,7 +10,7 @@ include 'connection.php';
 $user_id = $_SESSION['user_session']['user_id'];
 
 
-$sql = "SELECT * FROM users_table WHERE user_id = '$user_id'";
+$sql = "SELECT * FROM users WHERE user_id = '$user_id'";
 $stmt = $conn->query($sql);
 $result = $stmt->fetch(PDO::FETCH_ASSOC);
 ?>

@@ -46,58 +46,50 @@ Here we have path.php in which path of project saved if you rename this project 
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/Homepage.png?raw=true)
 
 <br/>
-<br/>
 
 #### Add Program
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/add_programe.png?raw=true)
 
-<br/>
 <br/>
 
 #### Add University
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/add_university.png?raw=true)
 
 <br/>
-<br/>
 
 #### Add University Admission details
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/add_university_admission_details.png?raw=true)
 
-<br/>
 <br/>
 
 #### Admin Dashboard
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/admin-dashboard.png?raw=true)
 
 <br/>
-<br/>
 
 #### Assign a programe to a specfic university and other details
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/assign_programe_to_university_and_details.png?raw=true)
 
 <br/>
-<br/>
 
-#### searched against predefined list by click specific record
+#### Searched against predefined list by click specific record
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/searched_against_predefined_list_by_click_a_record.png?raw=true)
 
-<br/>
 <br/>
 
 #### University Management UI
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/university_management.png?raw=true)
 
 <br/>
-<br/>
 
 #### Approved User - Predefined List
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/user_predefined_search_list.png?raw=true)
 
-<br/>
 <br/>
 
 #### User request management UI
 ![alt text](https://github.com/hassamulhaq/university-recommender-website/blob/main/project-initials-files/User_Interface/user_request_management.png?raw=true)
 
 <br/>
-<br/>
+
+Thank you.

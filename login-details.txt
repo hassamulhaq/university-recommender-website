@@ -1,0 +1,25 @@
+------------------------------------
+
+Admins:
+
+email:     admin@yahoo.com
+password:  admin
+
+email:     admin@gmail.com
+password:  admin
+
+----------------------------------
+
+Pending Users details:
+
+email:     user@ikram.com
+password:  admin
+
+----------------------------------
+
+Approved Uers details:
+
+email:     user@yahoo.com
+password:  user
+
+----------------------------------
